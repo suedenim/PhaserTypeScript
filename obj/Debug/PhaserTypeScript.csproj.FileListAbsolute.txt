@@ -1,12 +1,6 @@
-E:\Projects\PhaserTypeScript\PhaserTypeScript\bin\PhaserTypeScript.dll.config
-E:\Projects\PhaserTypeScript\PhaserTypeScript\bin\PhaserTypeScript.dll
-E:\Projects\PhaserTypeScript\PhaserTypeScript\bin\PhaserTypeScript.pdb
-E:\Projects\PhaserTypeScript\PhaserTypeScript\obj\Debug\PhaserTypeScript.dll
-E:\Projects\PhaserTypeScript\PhaserTypeScript\obj\Debug\PhaserTypeScript.pdb
-E:\Projects\PhaserTypeScript\PhaserTypeScript\obj\Debug\PhaserTypeScript.csprojResolveAssemblyReference.cache
 D:\Projects\PhaserTypeScript\PhaserTypeScript\bin\PhaserTypeScript.dll.config
 D:\Projects\PhaserTypeScript\PhaserTypeScript\bin\PhaserTypeScript.dll
 D:\Projects\PhaserTypeScript\PhaserTypeScript\bin\PhaserTypeScript.pdb
-D:\Projects\PhaserTypeScript\PhaserTypeScript\obj\Debug\PhaserTypeScript.csprojResolveAssemblyReference.cache
 D:\Projects\PhaserTypeScript\PhaserTypeScript\obj\Debug\PhaserTypeScript.dll
 D:\Projects\PhaserTypeScript\PhaserTypeScript\obj\Debug\PhaserTypeScript.pdb
+D:\Projects\PhaserTypeScript\PhaserTypeScript\obj\Debug\PhaserTypeScript.csprojResolveAssemblyReference.cache

@@ -10,7 +10,7 @@
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <DebugType>full</DebugType>
     <DebugSymbols>true</DebugSymbols>
-    <TypeScriptToolsVersion>1.1</TypeScriptToolsVersion>
+    <TypeScriptToolsVersion>1.4</TypeScriptToolsVersion>
     <UseIISExpress>true</UseIISExpress>
     <IISExpressSSLPort />
     <IISExpressAnonymousAuthentication />
@@ -21,23 +21,15 @@
     <Content Include="app.css" />
     <Content Include="app.js" />
     <Content Include="index.html" />
+    <None Include="maps\maps.json" />
     <Content Include="phaser.js" />
     <Content Include="phaser.min.js" />
-    <Content Include="web.config" />
+    <Content Include="web.config">
+      <SubType>Designer</SubType>
+    </Content>
   </ItemGroup>
   <ItemGroup>
     <TypeScriptCompile Include="app.ts" />
-    <TypeScriptCompile Include="simpleParticles.ts" />
-    <TypeScriptCompile Include="sounds.ts" />
-    <TypeScriptCompile Include="spriteEvent.ts" />
-    <TypeScriptCompile Include="pointerDebug.ts" />
-    <TypeScriptCompile Include="simplePointer.ts" />
-    <TypeScriptCompile Include="simpleKeyCapture.ts" />
-    <TypeScriptCompile Include="simpleCursorKeys.ts" />
-    <TypeScriptCompile Include="simpleScaling.ts" />
-    <TypeScriptCompile Include="basicShape.ts" />
-    <TypeScriptCompile Include="simpleSprite.ts" />
-    <TypeScriptCompile Include="moduleSample.ts" />
     <TypeScriptCompile Include="phaser.d.ts" />
   </ItemGroup>
   <ItemGroup>
@@ -64,7 +56,7 @@
           <AutoAssignPort>True</AutoAssignPort>
           <DevelopmentServerPort>50248</DevelopmentServerPort>
           <DevelopmentServerVPath>/</DevelopmentServerVPath>
-          <IISUrl>http://localhost:50248/</IISUrl>
+          <IISUrl>http://localhost:12345/</IISUrl>
           <NTLMAuthentication>False</NTLMAuthentication>
           <UseCustomServer>False</UseCustomServer>
           <CustomServerUrl>

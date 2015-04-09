@@ -3412,7 +3412,7 @@ declare module Phaser {
                 on: boolean;
                 particleBringToTop: boolean;
                 particleSendToBack: boolean;
-                particleClass: Phaser.Sprite;
+                particleClass: any;
                 particleDrag: Phaser.Point;
                 position: Phaser.Point;
                 right: number;
